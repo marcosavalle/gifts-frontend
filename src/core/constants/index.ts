@@ -1,0 +1,5 @@
+export const API_BASE_URL = process.env.REACT_APP_API_BASE_PATH;
+export const LOGIN_ENDPOINT = process.env.REACT_APP_LOGIN_ENDPOINT;
+export const CLIENT_BASE_URL = process.env.REACT_APP_CLIENT_BASE_PATH;
+export const LS_USER_DATA_KEY = 'MELI_REGALOS_APP_DATA';
+export const LS_GIFT_RECEIVED_PENDING = 'MELI_REGALOS_GR_DATA';

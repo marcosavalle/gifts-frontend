@@ -1,0 +1,16 @@
+.menu {
+    width: 300px;
+}
+
+.menu--item {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu--item-active {
+    color: #3483fa;
+}
+
+.menu--item-active svg {
+    color: #3483fa;
+}

@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(237, 237, 237);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.form--container {
+  padding: 50px 0 100px 0;
+}
+
+.form--card-container {
+  padding: 10px 30px 30px;
+}
+
+.form--card {
+  margin-top: 40px;
+}
+
+.info--icon {
+  margin-right: 10px;
+}
+
+.selected--chip {
+  margin: 5px 5px 5px 0;
+}
+
+.gift--link-container {
+  margin-top: -30px;
+  padding: 40px 20px;
+}
+
+.success--message-action {
+  margin: 5px 10px;
+}
+
+.success--message-icon {
+  margin-right: 10px;
+}
+
+.MuiTimelineItem-missingOppositeContent:before {
+  flex: 0 !important;
+}
